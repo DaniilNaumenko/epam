@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\6 sem\HPPA-master\AVP\main.cpp(38,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "LONGLONG"
+C:\6 sem\HPPA-master\AVP\main.cpp(38,9): message : рекомендуется использовать "%lld" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(38,9): message : рекомендуется использовать "%Id" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(38,9): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(48,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "LONGLONG"
+C:\6 sem\HPPA-master\AVP\main.cpp(48,9): message : рекомендуется использовать "%lld" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(48,9): message : рекомендуется использовать "%Id" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(48,9): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(59,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "LONGLONG"
+C:\6 sem\HPPA-master\AVP\main.cpp(59,9): message : рекомендуется использовать "%lld" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(59,9): message : рекомендуется использовать "%Id" в строке форматирования
+C:\6 sem\HPPA-master\AVP\main.cpp(59,9): message : рекомендуется использовать "%I64d" в строке форматирования
+  AVP.vcxproj -> C:\6 sem\HPPA-master\x64\Debug\Vectorization.exe
